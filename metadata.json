@@ -1,0 +1,6 @@
+{
+  "name": "Nokia 3310 Snake II Arcade",
+  "description": "Authentic Nokia 3310 hardware emulator featuring Snake II with monophonic 8-bit sound effects, tactile keypad, and arcade telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
